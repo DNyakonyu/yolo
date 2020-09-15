@@ -64,5 +64,15 @@ To check the status :
 - [Express](https://expressjs.com/)
 ### Node.js: A cross-platform JavaScript runtime environment
 
+## Creating the Build
+#### To create the build for the entire application, we need to run the following command: docker-compose build 
+
+### Starting the Services
+#### We can start the multi-container system using the following simple command: docker-compose up
+#### At last, we can open http://localhost:3000 to see our React Frontend.
+#### The backend server is live on http://localhost:5000
+#### And MongoDB is running on http://localhost:27017
+
+
 ## License MIT
 
