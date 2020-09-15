@@ -29,19 +29,10 @@ Make sure that you have the following installed:
 Actually, there are two separated apps. The Client which serves the FrontEnd (using React), and the Backend (in Node/Express).
 
 Run the app using :
+`$ docker-compose up --build`
+
 ![Image Source: [Google Images](https://sujaykundu.com/building-mern-apps-using-docker)](https://cdn-images-1.medium.com/max/2000/1*JJFt8gRBPBCjSwNYqhP3UA.png)
 
-`$ docker-compose up --build`
-The MERN stack is becoming increasingly popular and could be a powerful stack to figure in. Therefore having the ability to build ****and deploy good MERN applications, greatly helps career prospects as a developer.
-
-The App should be App :
-##  MERN Stack?
-
-visit client : http://localhost:3000
-The MERN stack is a JavaScript stack that is designed to make the development process smoother. MERN includes four open-source components: MongoDB, Express, React, and Node.js. These components offer an associate ****end-to-end framework for developers to work in.
-
-visit server : http://localhost:5000
-## A Closer Look at MERN Stack Components
 
 To check the status :
 ### MongoDB: A cross-platform document database
