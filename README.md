@@ -30,7 +30,7 @@ Run the app using :
 The MERN stack is becoming increasingly popular and could be a powerful stack to figure in. Therefore having the ability to build ****and deploy good MERN applications, greatly helps career prospects as a developer.
 
 The App should be App :
-## What is the MERN Stack?
+##  MERN Stack?
 
 visit client : http://localhost:3000
 The MERN stack is a JavaScript stack that is designed to make the development process smoother. MERN includes four open-source components: MongoDB, Express, React, and Node.js. These components offer an associate ****end-to-end framework for developers to work in.
