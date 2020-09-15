@@ -20,4 +20,5 @@ Make sure that you have the following installed:
 
  `npm start`
 
- ### Go ahead a nd add a product (note that the price field only takes a numeric input)
+## About the app
+Actually, there are two separated apps. The Client which serves the FrontEnd (using React), and the Backend (in Node/Express).
